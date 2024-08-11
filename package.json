@@ -1,0 +1,36 @@
+{
+  "name": "anime-manga-api",
+  "version": "1.0.0",
+  "description": "scraper anime manga from api built from nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "scraper",
+    "manga",
+    "anime"
+  ],
+  "author": "VamsesOfficial",
+  "license": "ISC",
+  "dependencies": {
+    "@bochilteam/scraper": "^4.2.3",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "express": "^4.18.1",
+    "ffmpeg": "^0.0.4",
+    "file-type": "^16.5.3",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.7.0",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.2",
+    "pdfkit": "^0.13.0",
+    "qs": "^6.11.2",
+    "request": "^2.88.2",
+    "soundoftext-js": "^1.0.2",
+    "spotifydl-core": "^0.2.0",
+    "vihangayt-fbdl": "^1.0.2"
+  }
+}
